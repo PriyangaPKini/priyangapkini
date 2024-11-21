@@ -1,6 +1,6 @@
 ## About Me
 
-👋 Hello! I'm Priyanga P Kini, a B.Tech computer science graduate of Model Engineering College, Kochi. I am passionate about creating useful and user-friendly software. My curiosity to dig into anything that feels like “magic” is what drove me to backend engineering.
+👋 Hello! I'm Priyanga P Kini, a B.Tech computer science graduate of Model Engineering College, Kochi. I am passionate about creating useful and user-friendly software. My curiosity to dig into anything that feels like “magic” is what drove me to backend engineering. Currently, honoring my craft at [nilenso](nilenso.com).
 
 ## 📋 Experience
 
