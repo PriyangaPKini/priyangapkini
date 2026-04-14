@@ -4,20 +4,20 @@
 
 ## 📋 Experience
 
-**Engineer - nilenso**
+### Engineer - nilenso | Jul 2026 - Present
 
-**Megasthenes, nilenso**                                    ***Jan 2026 - Apr 2026***
+####  Megasthenes, nilenso | Jan 2026 - Apr 2026
 
 - Co-developed an open-source TypeScript SDK (published on JSR) for programmatic question-answering over GitHub/GitLab repositories using LLM-powered agents
 
- **SDE 3, Porter | PES Team**                               ***Apr 2025 - Dec 2025***
+#### SDE 3, Porter | PES Team | Apr 2025 - Dec 2025
 
 - Migrated a critical legacy API to Kotlin, applying SRP for better maintainability
 - Built a Temporal-based driver onboarding workflow
 - Developed a Google Gemini-based OCR Solution with ~90% accuracy for
 document verification
 
-**SDE 3, Porter | Tech Scalability Team**                   ***Dec 2024 - Mar 2025***
+#### SDE 3, Porter | Tech Scalability Team | Dec 2024 - Mar 2025
 
 - Migrated high-throughput APIs from a legacy Ruby-based Order
 Management System (OMS) to modern Kotlin services with 3x performance
@@ -26,7 +26,7 @@ improvement
 - Migrated existing transliteration functionality from the legacy system to
 modern services
 
-**Backend Engineer, Resolve To Save Lives**                 ***Nov 2021 - Sep 2024***
+#### Backend Engineer, Resolve To Save Lives | Nov 2021 - Sep 2024
 
 - Built the backend powering the analytics dashboard of 6M+ patient records
 - Migrated product workflows to open standards such as DHIS2, and
